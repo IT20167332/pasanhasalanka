@@ -1,0 +1,42 @@
+.projects{
+    width: 100%;
+    height: fit-content;
+    
+}
+.project-head{
+    margin: 30px auto 30px auto;
+    text-align: center;
+    height: fit-content;
+}
+.p-text-1{
+    font-size: 20px;
+    color: rgb(255, 17, 0);
+    font-weight: 700;
+}
+.p-text-2{
+    font-size: 48px;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
+}
+.p-text-3{
+    font-size: 18px;
+    font-weight: 600;
+    
+    color: rgb(0, 0, 0);
+}
+.projects-body{
+    display: block;
+    padding: 0px 20%;
+    margin-top: 30px;
+    /* -webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    -webkit-column-width: 50%;
+    -moz-column-width: 50%;
+    column-width: 50%; */
+}
+.projects-body .con{
+    display: flex;
+    margin: 20px 0px;
+}
